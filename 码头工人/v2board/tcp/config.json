@@ -10,6 +10,8 @@
     "user": {
       "maxOnlineIPCount": 0,  // 用户同时在线 IP 数限制 0 表示不限制
       "speedLimit": 0         // 用户限速 单位 字节/s 0 表示不限速
-    }
+    },
+    
+    "localport":10084
   }
 }
